@@ -1,0 +1,4 @@
+
+2022/11/27 14:41:57 [31;1m/home/carlos/go/src/github.com/carlos-oficial/LI3_testing/LI3_testing/main.go:16 [35;1mrecord not found
+[0m[33m[0.150ms] [34;1m[rows:0][0m SELECT * FROM `users` ORDER BY `users`.`username` LIMIT 1
+[]
